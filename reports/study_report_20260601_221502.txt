@@ -1,0 +1,13 @@
+===== REPORT =====
+Name: sudipta chatterjee
+Study Hours (daily): 8.0
+Mobile Hours (daily): 4.0
+Days left for exam: 70.0
+Study Score: 60.0/100
+Assessment: Good, but you can improve.
+Suggestion: Great balance between study and mobile usage.
+Note: You have enough time. Stay consistent.
+Target: 80.0
+Estimated study hours needed (daily) to reach target: 10.0
+Additional hours required total: 2.0
+Suggested extra per day: 0.1
